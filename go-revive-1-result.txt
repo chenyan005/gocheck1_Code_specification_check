@@ -1,0 +1,42 @@
+/go-revive-1/invalidtest/invalid_test.go:3:1: invalid file /go-revive-1/invalidtest/invalid_test.go: /go-revive-1/invalidtest/invalid_test.go:3:1: expected declaration, found This
+/go-revive-1/invalidtest/invalid.go:5:1: exported function Not should have comment or be unexported
+/go-revive-1/exercises/concept/parsing-log-files/parsing_log_files.go:3:1: exported function IsValidLine should have comment or be unexported
+/go-revive-1/exercises/concept/parsing-log-files/parsing_log_files.go:7:1: exported function SplitLogLine should have comment or be unexported
+/go-revive-1/exercises/concept/parsing-log-files/parsing_log_files.go:11:1: exported function CountQuotedPasswords should have comment or be unexported
+/go-revive-1/exercises/concept/parsing-log-files/parsing_log_files.go:15:1: exported function RemoveEndOfLineText should have comment or be unexported
+/go-revive-1/exercises/concept/parsing-log-files/parsing_log_files.go:19:1: exported function TagWithUserName should have comment or be unexported
+/go-revive-1/exercises/concept/meteorology/meteorology.go:3:6: exported type TemperatureUnit should have comment or be unexported
+/go-revive-1/exercises/concept/meteorology/meteorology.go:6:2: exported const Celsius should have comment (or a comment on this block) or be unexported
+/go-revive-1/exercises/concept/meteorology/meteorology.go:12:6: exported type Temperature should have comment or be unexported
+/go-revive-1/exercises/concept/meteorology/meteorology.go:19:6: exported type SpeedUnit should have comment or be unexported
+/go-revive-1/exercises/concept/meteorology/meteorology.go:22:2: exported const KmPerHour should have comment (or a comment on this block) or be unexported
+/go-revive-1/exercises/concept/meteorology/meteorology.go:28:6: exported type Speed should have comment or be unexported
+/go-revive-1/exercises/concept/meteorology/meteorology.go:35:6: exported type MeteorologyData should have comment or be unexported
+/go-revive-1/exercises/concept/meteorology/meteorology.go:35:6: type name will be used as meteorology.MeteorologyData by other packages, and that stutters; consider calling this Data
+/go-revive-1/test007.go:3:1: exported method Bar.Foo7 should have comment or be unexported
+/go-revive-1/test001.go:3:1: exported function Foo1 should have comment or be unexported
+/go-revive-1/test012.go:3:1: exported function Foo12 should have comment or be unexported
+/go-revive-1/test005.go:3:1: exported function Foo5 should have comment or be unexported
+/go-revive-1/test013.go:3:1: exported function Foo13 should have comment or be unexported
+/go-revive-1/test014.go:3:1: exported function Foo14 should have comment or be unexported
+/go-revive-1/test011.go:3:1: exported function Foo11 should have comment or be unexported
+/go-revive-1/test009.go:3:1: exported method Bar.Foo9 should have comment or be unexported
+/go-revive-1/test015.go:3:1: exported function Foo15 should have comment or be unexported
+/go-revive-1/test016.go:3:1: exported function Foo16 should have comment or be unexported
+/go-revive-1/test002.go:3:1: exported function Foo2 should have comment or be unexported
+/go-revive-1/test004.go:3:1: exported function Foo4 should have comment or be unexported
+/go-revive-1/exercises/concept/sorting-room/sorting_room.go:8:6: exported type NumberBox should have comment or be unexported
+/go-revive-1/exercises/concept/sorting-room/sorting_room.go:17:6: exported type FancyNumber should have comment or be unexported
+/go-revive-1/exercises/concept/sorting-room/sorting_room.go:21:1: exported method FancyNumber.Value should have comment or be unexported
+/go-revive-1/exercises/concept/weather-forecast/weather_forecast.go:3:5: exported var CurrentCondition should have comment or be unexported
+/go-revive-1/exercises/concept/weather-forecast/weather_forecast.go:4:5: exported var CurrentLocation should have comment or be unexported
+/go-revive-1/exercises/concept/sorting-room/sorting_room.go:25:6: exported type FancyNumberBox should have comment or be unexported
+/go-revive-1/exercises/concept/interest-is-interesting/interest_is_interesting.go:4:6: func name will be used as interest.InterestRate by other packages, and that stutters; consider calling this Rate
+/go-revive-1/exercises/concept/weather-forecast/weather_forecast.go:6:1: exported function Forecast should have comment or be unexported
+/go-revive-1/test017.go:5:1: exported function Foo17 should have comment or be unexported
+/go-revive-1/test008.go:3:1: exported function Foo8 should have comment or be unexported
+/go-revive-1/test006.go:3:1: exported function Foo6 should have comment or be unexported
+/go-revive-1/test010.go:3:1: exported function Foo10 should have comment or be unexported
+/go-revive-1/gen/remote.go:30:6: exported type Commit should have comment or be unexported
+/go-revive-1/gen/remote.go:37:1: exported method Commit.Summary should have comment or be unexported
+/go-revive-1/gen/gen.go:200:21: error strings should not be capitalized or end with punctuation or a newline
